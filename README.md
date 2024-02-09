@@ -1,7 +1,7 @@
 <h1 align="center">Hi There, I'm Md Sayedul Islam</h1>
 <h3 align="center">An enthusiasts of Data science and ML Engineering.</h3>
 
-<image align="right" alt="coding"  width="400" src="https://media.giphy.com/media/rb3XEc78xtyzm/giphy.gif">
+<image align="right" alt="coding"  width="500" src="https://media.giphy.com/media/rb3XEc78xtyzm/giphy.gif">
 
 
 
