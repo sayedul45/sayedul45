@@ -1,9 +1,7 @@
 <h1 align="center">Hi There, I'm Md Sayedul Islam</h1>
 <h3 align="center">An enthusiasts of Data science and ML Engineering.</h3>
 
-<image align="right" alt="coding"  width="900" src="https://blog.digitalogy.co/wp-content/uploads/2019/06/Hiring-Data-Scientists.gif">
-<br>
-<br>
+<image align="right" alt="coding"  width="1000" src="https://blog.digitalogy.co/wp-content/uploads/2019/06/Hiring-Data-Scientists.gif">
 - 📫 You can reach me out **sayedulislam1586@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
